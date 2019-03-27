@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate", "Delegate\Delegate.csproj", "{7EDB49A0-41A0-4040-9056-AB6B45DE00AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Racer.Models", "Racer.Models\Racer.Models.csproj", "{E431B91C-22F5-4F93-81B9-8726E7171321}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EDB49A0-41A0-4040-9056-AB6B45DE00AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EDB49A0-41A0-4040-9056-AB6B45DE00AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EDB49A0-41A0-4040-9056-AB6B45DE00AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EDB49A0-41A0-4040-9056-AB6B45DE00AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E431B91C-22F5-4F93-81B9-8726E7171321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E431B91C-22F5-4F93-81B9-8726E7171321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E431B91C-22F5-4F93-81B9-8726E7171321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E431B91C-22F5-4F93-81B9-8726E7171321}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28CA4F59-31AB-4D47-9299-30F01C3C900A}
+	EndGlobalSection
+EndGlobal
